@@ -66,7 +66,7 @@ while True:
                     logging.basicConfig(filename='log.log', filemode='a',format='%(asctime)s - %(message)s', level=logging.INFO)
                     logging.warning(f'SQl statement are now being written to file named sql {item[0]}:{sql}. ')
                     try:
-                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='Magfum12@')
+                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='@')
                         if conn.is_connected():
                             cursor = conn.cursor()
                             
@@ -129,7 +129,7 @@ while True:
                     logging.basicConfig(filename='log.log', filemode='a',format='%(asctime)s - %(message)s', level=logging.INFO)
                     logging.warning(f'SQl statement are now being written to file named sql {item[0]}:{sql1}. ')
                     try:
-                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='Magfum12@')
+                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='ssss@')
                         if conn.is_connected():
                             cursor = conn.cursor()
                             
@@ -192,7 +192,7 @@ while True:
                     logging.basicConfig(filename='log.log', filemode='a',format='%(asctime)s - %(message)s', level=logging.INFO)
                     logging.warning(f'SQl statement are now being written to file named sql {item[0]}:{sql2}. ')
                     try:
-                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='Magfum12@')
+                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='ssss@')
                         if conn.is_connected():
                             cursor = conn.cursor()
                             
@@ -262,7 +262,7 @@ while True:
                     logging.basicConfig(filename='log.log', filemode='a',format='%(asctime)s - %(message)s', level=logging.INFO)
                     logging.warning(f'SQl statement are now being written to file named sql {item[0]}:{sql3}. ')
                     try:
-                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='Magfum12@')
+                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='sss@')
                         if conn.is_connected():
                             cursor = conn.cursor()
                             
@@ -333,7 +333,7 @@ while True:
                     logging.basicConfig(filename='log.log', filemode='a',format='%(asctime)s - %(message)s', level=logging.INFO)
                     logging.warning(f'SQl statement are now being written to file named sql {item[0]}:{sql}. ')
                     try:
-                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='Magfum12@')
+                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='sss@')
                         if conn.is_connected():
                             cursor = conn.cursor()
                             
@@ -396,7 +396,7 @@ while True:
                     logging.basicConfig(filename='log.log', filemode='a',format='%(asctime)s - %(message)s', level=logging.INFO)
                     logging.warning(f'SQl statement are now being written to file named sql {item[0]}:{sql1}. ')
                     try:
-                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='Magfum12@')
+                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='sss@')
                         if conn.is_connected():
                             cursor = conn.cursor()
                             
@@ -459,7 +459,7 @@ while True:
                     logging.basicConfig(filename='log.log', filemode='a',format='%(asctime)s - %(message)s', level=logging.INFO)
                     logging.warning(f'SQl statement are now being written to file named sql {item[0]}:{sql2}. ')
                     try:
-                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='Magfum12@')
+                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='ssss@')
                         if conn.is_connected():
                             cursor = conn.cursor()
                             
@@ -529,7 +529,7 @@ while True:
                     logging.basicConfig(filename='log.log', filemode='a',format='%(asctime)s - %(message)s', level=logging.INFO)
                     logging.warning(f'SQl statement are now being written to file named sql {item[0]}:{sql3}. ')
                     try:
-                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='Magfum12@')
+                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='sssss@')
                         if conn.is_connected():
                             cursor = conn.cursor()
                             
@@ -596,7 +596,7 @@ while True:
                     logging.basicConfig(filename='log.log', filemode='a',format='%(asctime)s - %(message)s', level=logging.INFO)
                     logging.warning(f'SQl statement are now being written to file named sql {item[0]}:{sql}. ')
                     try:
-                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='Magfum12@')
+                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='ssss@')
                         if conn.is_connected():
                             cursor = conn.cursor()
                             
@@ -659,7 +659,7 @@ while True:
                     logging.basicConfig(filename='log.log', filemode='a',format='%(asctime)s - %(message)s', level=logging.INFO)
                     logging.warning(f'SQl statement are now being written to file named sql {item[0]}:{sql1}. ')
                     try:
-                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='Magfum12@')
+                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='sssss@')
                         if conn.is_connected():
                             cursor = conn.cursor()
                             
@@ -722,7 +722,7 @@ while True:
                     logging.basicConfig(filename='log.log', filemode='a',format='%(asctime)s - %(message)s', level=logging.INFO)
                     logging.warning(f'SQl statement are now being written to file named sql {item[0]}:{sql2}. ')
                     try:
-                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='Magfum12@')
+                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='sssss@')
                         if conn.is_connected():
                             cursor = conn.cursor()
                             
@@ -792,7 +792,7 @@ while True:
                     logging.basicConfig(filename='log.log', filemode='a',format='%(asctime)s - %(message)s', level=logging.INFO)
                     logging.warning(f'SQl statement are now being written to file named sql {item[0]}:{sql3}. ')
                     try:
-                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='Magfum12@')
+                        conn = msql.connect(host='127.0.0.1', database='postxnprocessors', user='root', password='sss@')
                         if conn.is_connected():
                             cursor = conn.cursor()
                             
